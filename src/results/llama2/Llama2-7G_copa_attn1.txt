@@ -1,0 +1,10 @@
+attn 1 0 0.605
+attn 1 1.0 0.62
+attn 1 5.0 0.635
+attn 1 7.5 0.61
+attn 1 9.0 0.565
+attn 1 9.5 0.585
+attn 1 9.9 0.555
+attn 1 9.95 0.53
+best_clip_rate: 5.0
+test f1:0.57 -> 0.68
